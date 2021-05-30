@@ -10570,6 +10570,7 @@
             <Game>Red and Blue Balls</Game>
             <Game>Red and Blue Balls 2</Game>
             <Game>Red and Blue Balls 3</Game>
+	    <Game>Red Ball Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ItsMaximum/autosplitters/master/RedBallGames.asl</URL>
